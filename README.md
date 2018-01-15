@@ -14,9 +14,9 @@ curl -o - https://raw.githubusercontent.com/jelly-config-projects/vim/master/aut
 ```
 
 ### manual install
-Download the git project anywhere.
+Download the git project anywhere you want to placed.
 
-Locate into the directory, then run 
+Locate into the project directory, then run the next command in terminal.
 ```
 # sh ./run.sh
 ```
