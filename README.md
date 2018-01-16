@@ -8,11 +8,11 @@ My vim config files
 #### auto install 
 
 ```
-wget -O - https://raw.githubusercontent.com/jelly-config-projects/vim/master/auto_install.sh | sh
+wget -O - https://raw.githubusercontent.com/dotfile-projects/vim/master/auto_install.sh | sh
 ```
 or
 ```
-curl -o - https://raw.githubusercontent.com/jelly-config-projects/vim/master/auto_install.sh | sh
+curl -o - https://raw.githubusercontent.com/dotfile-projects/vim/master/auto_install.sh | sh
 ```
 
 #### manual install
