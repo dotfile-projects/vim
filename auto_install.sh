@@ -1,6 +1,6 @@
 #!/bin/sh
 
-VIMHOME=/usr/local/share/jelly/conf/vim
+VIMHOME=~/.dot_proj/vim
 
 warn() {
     echo "$1" >&2
