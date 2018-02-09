@@ -14,6 +14,6 @@ die() {
 git clone https://github.com/dotfile-projects/vim.git "$VIMHOME"
 
 cd "$VIMHOME"
-source run.sh
+sh run.sh
 
 echo "Install complate!!!"
